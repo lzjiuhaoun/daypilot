@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cat_dev",
+    "name": "开发",
+    "color": "#3370FF"
+  },
+  {
+    "id": "cat_meet",
+    "name": "会议",
+    "color": "#FF7D00"
+  },
+  {
+    "id": "cat_doc",
+    "name": "文档",
+    "color": "#00B42A"
+  },
+  {
+    "id": "cat_rev",
+    "name": "代码检视",
+    "color": "#722ED1"
+  },
+  {
+    "id": "cat_req",
+    "name": "需求",
+    "color": "#F53F3F"
+  },
+  {
+    "id": "cat_des",
+    "name": "设计",
+    "color": "#14C9C9"
+  },
+  {
+    "id": "idmqab9slmq9rdq",
+    "name": "测试",
+    "color": "#F759AB"
+  }
+]
